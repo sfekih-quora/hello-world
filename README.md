@@ -1,2 +1,3 @@
 # hello-world
-a stock of ideas and ressources for future project
+This is a stock of ideas and ressources for future projects.
+Every description should be stock here.
